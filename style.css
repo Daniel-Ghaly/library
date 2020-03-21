@@ -1,0 +1,70 @@
+td,
+tr {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.newBookContainer {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.formContainer {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.submitContainer {
+    padding-top: 10px;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    font-size: 15pt;
+}
+
+h1 {
+    display: inline;
+}
+
+img {
+    height: 25px;
+    width: 25px;
+    vertical-align: bottom;
+}
+
+body {
+    background-color: rgb(143, 60, 0, 0.7);
+}
+
+button {
+    border-radius: 10px;
+    background-color: rgb(168, 49, 49);
+}
+
+button:focus {
+    outline: none
+}
+
+th {
+    font-weight: bold;
+    font-size: 20pt;
+    font-family: 'Baloo Tammudu', cursive;
+}
+
+td {
+    font-size: 15pt;
+}
+
+input {
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+input:focus {
+    outline: none;
+}
